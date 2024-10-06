@@ -1,1 +1,1 @@
-# İnternet Programcılığı I dersi içerisinde her hafta gerçekleştirilen bazı uygulamalara yer verilmiştir.
+# VTK251 kodlu İnternet Programcılığına Giriş dersi içerisinde her hafta anlatımı gerçekleştirilen bu kodlar Öğr. Gör. Çisem YAŞAR tarafından oluşturulmuştur.
